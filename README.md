@@ -332,6 +332,6 @@ yt-dlp-gui/
 
 **🎉 享受您的视频下载体验！**
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [cmliusss]
 
 </div>
