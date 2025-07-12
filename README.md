@@ -111,7 +111,7 @@ sudo dnf install yt-dlp
 
 ### 1️⃣ 克隆项目
 ```bash
-git clone https://github.com/your-username/yt-dlp-gui.git
+git clone https://github.com/cmliusss/yt_dlp_gui.git
 cd yt-dlp-gui
 ```
 
